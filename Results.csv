@@ -173,7 +173,7 @@ Dover and Deal,con,lab
 Droitwich and Evesham,con,con
 Dudley,con,lab
 Dulwich and West Norwood,lab,lab
-Dumfries and Galloway,con
+Dumfries and Galloway,con,con
 "Dumfriesshire, Clydesdale and Tweeddale",con,con
 Dundee Central,snp,snp
 Dunfermline and Dollar,snp,lab
@@ -293,7 +293,7 @@ Hyndburn,con,lab
 Ilford North,lab,lab
 Ilford South,lab,lab
 Inverclyde and Renfrewshire West,snp,lab
-"Inverness, Skye and West Ross-shire",snp
+"Inverness, Skye and West Ross-shire",snp,ld
 Ipswich,con,lab
 Isle of Wight East,con,con
 Isle of Wight West,con,lab
@@ -482,7 +482,7 @@ Scarborough and Whitby,con,lab
 Scunthorpe,con,lab
 Sefton Central,lab,lab
 Selby,con,lab
-Sevenoaks,con,constituency
+Sevenoaks,con,con
 Sheffield Brightside and Hillsborough,lab,lab
 Sheffield Central,lab,lab
 Sheffield Hallam,lab,lab
@@ -497,7 +497,7 @@ Sleaford and North Hykeham,con,con
 Slough,lab,lab
 Smethwick,lab,lab
 Solihull West and Shirley,con,con
-South Basildon and East Thurrock,con
+South Basildon and East Thurrock,con,ref
 South Cambridgeshire,con,ld
 South Cotswolds,con,ld
 South Derbyshire,con,lab
